@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://demo.stayflymedia.com/about/",
-            "url": "https://demo.stayflymedia.com/about/",
+            "id": "https://demo.stayflymedia.com/about-us-2/",
+            "url": "https://demo.stayflymedia.com/about-us-2/",
             "title": "About",
             "summary": "We believe in building strong communities. Pleasants Development is one of the Mid-Atlantic region’s leading residential and commercial land development companies. We have a&hellip;",
             "content_html": "<article class=\"post\"><header class=\"post__header\">\n<h2 class=\"post__header\">We believe in building strong communities.</h2>\n<p>Pleasants Development is one of the Mid-Atlantic region’s leading residential and commercial land development companies. We have a passion for building communities in the places we call home. Pleasants Development strives to develop productive relationships with municipal officials, local businesses, and neighbors. We meticulously design our projects to meet the needs of our residents and the broader community. Pleasants Development considers the long-term success of each project, creating a plan to develop and cultivate the vision so that it grows more beautiful over time.</p>\n</header></article>\n<style>\n\t.typed_wrap {\n\t\tdisplay: none;\n\t}\n\n\t.post__header>h1 {\n\t\tdisplay: none\n\t}\n</style>",
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2024-07-05T07:10:32-04:00",
-            "date_modified": "2024-07-05T08:05:24-04:00"
+            "date_modified": "2024-07-05T13:02:49-04:00"
         },
         {
             "id": "https://demo.stayflymedia.com/huntington-terrace/",
