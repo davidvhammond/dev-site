@@ -1,0 +1,62 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pleasants Development",
+    "description": "",
+    "home_page_url": "https://demo.stayflymedia.com",
+    "feed_url": "https://demo.stayflymedia.com/feed.json",
+    "user_comment": "",
+    "icon": "https://demo.stayflymedia.com/media/website/LOGO.png",
+    "author": {
+        "name": "daveh"
+    },
+    "items": [
+        {
+            "id": "https://demo.stayflymedia.com/about/",
+            "url": "https://demo.stayflymedia.com/about/",
+            "title": "About",
+            "summary": "We believe in building strong communities. Pleasants Development is one of the Mid-Atlantic region’s leading residential and commercial land development companies. We have a&hellip;",
+            "content_html": "<article class=\"post\"><header class=\"post__header\">\n<h2 class=\"post__header\">We believe in building strong communities.</h2>\n<p>Pleasants Development is one of the Mid-Atlantic region’s leading residential and commercial land development companies. We have a passion for building communities in the places we call home. Pleasants Development strives to develop productive relationships with municipal officials, local businesses, and neighbors. We meticulously design our projects to meet the needs of our residents and the broader community. Pleasants Development considers the long-term success of each project, creating a plan to develop and cultivate the vision so that it grows more beautiful over time.</p>\n</header></article>\n<style>\n\t.typed_wrap {\n\t\tdisplay: none;\n\t}\n\n\t.post__header>h1 {\n\t\tdisplay: none\n\t}\n</style>",
+            "image": "https://demo.stayflymedia.com/media/posts/5/833a5a_58b28468b01d46718a49079bdbd00e56~mv21-xl.webp",
+            "author": {
+                "name": "daveh"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-05T07:10:32-04:00",
+            "date_modified": "2024-07-05T08:05:24-04:00"
+        },
+        {
+            "id": "https://demo.stayflymedia.com/huntington-terrace/",
+            "url": "https://demo.stayflymedia.com/huntington-terrace/",
+            "title": "Huntington Terrace",
+            "summary": "School nearby Caption here",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/bg.webp\" data-size=\"5272x3948\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/bg-thumbnail.webp\" alt=\"\" width=\"768\" height=\"575\"></a>\n<figcaption>School nearby</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/DJI_20240621195053_0153_D.jpg\" data-size=\"5272x3948\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/DJI_20240621195053_0153_D-thumbnail.webp\" alt=\"\" width=\"768\" height=\"575\"></a>\n<figcaption>Caption here</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-28.jpg\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-28-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-30.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-30-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-34.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-34-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n</div></div>\n<p><video loading=\"lazy\" height=\"auto\" style=\"width: 100%;\" autoplay=\"autoplay\" data-mce-fragment=\"1\">\n\t\t<source src=\"https://video.wixstatic.com/video/08156e_42558b894a3e4b0dadc1315edc9f01b6/1080p/mp4/file.mp4\" type=\"video/mp4\" />\n\t</video></p>",
+            "image": "https://demo.stayflymedia.com/media/posts/3/bg.webp",
+            "author": {
+                "name": "Baltimore"
+            },
+            "tags": [
+                   "Residential",
+                   "Commercial"
+            ],
+            "date_published": "2024-07-05T02:47:00-04:00",
+            "date_modified": "2024-07-05T09:23:00-04:00"
+        },
+        {
+            "id": "https://demo.stayflymedia.com/spring-hill-estates-2/",
+            "url": "https://demo.stayflymedia.com/spring-hill-estates-2/",
+            "title": "Spring View Estates",
+            "summary": "Stunning views Overhead shot Marketing tag line Bam look at this",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-02.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-02-thumbnail.webp\" alt=\"Stunning views\" width=\"768\" height=\"405\"></a>\n<figcaption>Stunning views</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-05.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-05-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a>\n<figcaption>Overhead shot</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a>\n<figcaption>Marketing tag line</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-22.jpg\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-22-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a>\n<figcaption>Bam look at this</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-24.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-24-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-28.jpg\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-28-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-30.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-30-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-34.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-34-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n</div></div>\n<figure class=\"post__video\"><video loading=\"lazy\" height=\"auto\" style=\"width: 100%;\" autoplay=\"autoplay\" data-mce-fragment=\"1\">\n\t\t<source src=\"https://video.wixstatic.com/video/08156e_42558b894a3e4b0dadc1315edc9f01b6/1080p/mp4/file.mp4\" type=\"video/mp4\" />\n\t</video></figure>",
+            "image": "https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg",
+            "author": {
+                "name": "Washington DC"
+            },
+            "tags": [
+                   "Residential"
+            ],
+            "date_published": "2024-07-04T20:44:48-04:00",
+            "date_modified": "2024-07-05T07:54:18-04:00"
+        }
+    ]
+}
