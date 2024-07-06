@@ -3,7 +3,7 @@
     <title>Pleasants Development</title>
     <link href="https://demo.stayflymedia.com/feed.xml" rel="self" />
     <link href="https://demo.stayflymedia.com" />
-    <updated>2024-07-05T16:30:17-04:00</updated>
+    <updated>2024-07-05T19:34:26-04:00</updated>
     <author>
         <name>daveh</name>
     </author>
@@ -47,13 +47,12 @@
     <entry>
         <title>Huntington Terrace</title>
         <author>
-            <name>Baltimore</name>
+            <name>Frederick</name>
         </author>
         <link href="https://demo.stayflymedia.com/huntington-terrace/"/>
         <id>https://demo.stayflymedia.com/huntington-terrace/</id>
         <media:content url="https://demo.stayflymedia.com/media/posts/3/bg.webp" medium="image" />
             <category term="Residential"/>
-            <category term="Commercial"/>
 
         <updated>2024-07-05T02:47:00-04:00</updated>
             <summary>

@@ -33,14 +33,13 @@
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/bg.webp\" data-size=\"5272x3948\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/bg-thumbnail.webp\" alt=\"\" width=\"768\" height=\"575\"></a>\n<figcaption>School nearby</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/DJI_20240621195053_0153_D.jpg\" data-size=\"5272x3948\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/DJI_20240621195053_0153_D-thumbnail.webp\" alt=\"\" width=\"768\" height=\"575\"></a>\n<figcaption>Caption here</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-28.jpg\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-28-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-30.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-30-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-34.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/3/gallery/gfx-spring-hill-estates-34-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n</div></div>\n<p><video loading=\"lazy\" height=\"auto\" style=\"width: 100%;\" autoplay=\"autoplay\" data-mce-fragment=\"1\">\n\t\t<source src=\"https://video.wixstatic.com/video/08156e_42558b894a3e4b0dadc1315edc9f01b6/1080p/mp4/file.mp4\" type=\"video/mp4\" />\n\t</video></p>",
             "image": "https://demo.stayflymedia.com/media/posts/3/bg.webp",
             "author": {
-                "name": "Baltimore"
+                "name": "Frederick"
             },
             "tags": [
-                   "Residential",
-                   "Commercial"
+                   "Residential"
             ],
             "date_published": "2024-07-05T02:47:00-04:00",
-            "date_modified": "2024-07-05T09:23:00-04:00"
+            "date_modified": "2024-07-05T19:34:26-04:00"
         },
         {
             "id": "https://demo.stayflymedia.com/spring-hill-estates-2/",
