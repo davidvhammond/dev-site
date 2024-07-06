@@ -3,12 +3,66 @@
     <title>Pleasants Development</title>
     <link href="https://demo.stayflymedia.com/feed.xml" rel="self" />
     <link href="https://demo.stayflymedia.com" />
-    <updated>2024-07-05T19:34:26-04:00</updated>
+    <updated>2024-07-06T03:05:27-04:00</updated>
     <author>
         <name>daveh</name>
     </author>
     <id>https://demo.stayflymedia.com</id>
 
+    <entry>
+        <title>Millstone at Kingsview</title>
+        <author>
+            <name>Frederick</name>
+        </author>
+        <link href="https://demo.stayflymedia.com/millstone-at-kingsview/"/>
+        <id>https://demo.stayflymedia.com/millstone-at-kingsview/</id>
+        <media:content url="https://demo.stayflymedia.com/media/posts/6/bg.webp" medium="image" />
+            <category term="Residential"/>
+
+        <updated>2024-07-06T00:41:47-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://demo.stayflymedia.com/media/posts/6/bg.webp" alt="" />
+                    School nearby Caption here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://demo.stayflymedia.com/media/posts/6/bg.webp" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-01.jpg" data-size="4033x2127"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-01-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-02.jpg" data-size="4027x2124"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-02-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-03.jpg" data-size="4016x2118"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-03-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-04.jpg" data-size="4061x2142"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-04-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-05.jpg" data-size="3699x2107"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-05-thumbnail.webp" alt="" width="768" height="437"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-06.jpg" data-size="4096x2160"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-06-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-07.jpg" data-size="4096x2160"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-07-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-08.jpg" data-size="4013x2116"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-08-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-09.jpg" data-size="4096x2160"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-09-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-10.jpg" data-size="4096x2160"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-10-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-11.jpg" data-size="4096x2160"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-11-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-12.jpg" data-size="4096x2160"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-12-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-13.jpg" data-size="3890x2051"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-13-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-14.jpg" data-size="3962x2089"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-14-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-15.jpg" data-size="4027x2124"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-millview-indoor-15-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+</div></div>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/bg.webp" data-size="5272x3948"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/bg-thumbnail.webp" alt="" width="768" height="575"></a>
+<figcaption>School nearby</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/DJI_20240621195053_0153_D.jpg" data-size="5272x3948"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/DJI_20240621195053_0153_D-thumbnail.webp" alt="" width="768" height="575"></a>
+<figcaption>Caption here</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-spring-hill-estates-28.jpg" data-size="4096x2160"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-spring-hill-estates-28-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-spring-hill-estates-30.jpg" data-size="8192x4320"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-spring-hill-estates-30-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-spring-hill-estates-34.jpg" data-size="8192x4320"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/6/gallery/gfx-spring-hill-estates-34-thumbnail.webp" alt="" width="768" height="405"></a></figure>
+</div></div>
+<p><video loading="lazy" height="auto" style="width: 100%;" autoplay="autoplay" data-mce-fragment="1">
+		<source src="https://video.wixstatic.com/video/08156e_42558b894a3e4b0dadc1315edc9f01b6/1080p/mp4/file.mp4" type="video/mp4" />
+	</video></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
