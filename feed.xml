@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Pleasants Development</title>
+    <title>Pleasants Demo</title>
     <link href="https://demo.stayflymedia.com/feed.xml" rel="self" />
     <link href="https://demo.stayflymedia.com" />
-    <updated>2024-07-06T03:30:38-04:00</updated>
+    <updated>2024-07-06T03:05:27-04:00</updated>
     <author>
         <name>daveh</name>
     </author>
@@ -118,7 +118,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://demo.stayflymedia.com/media/posts/3/bg.webp" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/3/gallery/bg.webp" data-size="5272x3948"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/3/gallery/bg-thumbnail.webp" alt="" width="768" height="575"></a>
 <figcaption>School nearby</figcaption>
 </figure>
@@ -140,22 +140,22 @@
         <author>
             <name>Washington DC</name>
         </author>
-        <link href="https://demo.stayflymedia.com/spring-view-estates/"/>
-        <id>https://demo.stayflymedia.com/spring-view-estates/</id>
-        <media:content url="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-21.jpg" medium="image" />
+        <link href="https://demo.stayflymedia.com/spring-hill-estates-2/"/>
+        <id>https://demo.stayflymedia.com/spring-hill-estates-2/</id>
+        <media:content url="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg" medium="image" />
             <category term="Residential"/>
 
         <updated>2024-07-04T20:44:48-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-21.jpg" alt="" />
+                        <img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg" alt="" />
                     Beautiful backyards Overhead shot Southeast Entrance Stunning views Immaculate streets Space to play
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-21.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+                    <p><img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07.jpg" data-size="8192x4320"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07-thumbnail.webp" alt="" width="768" height="405"></a>
 <figcaption>Beautiful backyards</figcaption>
 </figure>
