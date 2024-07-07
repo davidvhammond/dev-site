@@ -3,7 +3,7 @@
     <title>Pleasants Development</title>
     <link href="https://demo.stayflymedia.com/feed.xml" rel="self" />
     <link href="https://demo.stayflymedia.com" />
-    <updated>2024-07-06T03:05:27-04:00</updated>
+    <updated>2024-07-07T16:49:29-04:00</updated>
     <author>
         <name>daveh</name>
     </author>
@@ -155,7 +155,10 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+                <figure class="post__video"><video loading="lazy" height="auto" style="width: 100%;" autoplay="autoplay" data-mce-fragment="1">
+		<source src="https://video.wixstatic.com/video/08156e_42558b894a3e4b0dadc1315edc9f01b6/1080p/mp4/file.mp4" type="video/mp4" />
+	</video></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07.jpg" data-size="8192x4320"><img decoding="async" loading="lazy" src="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07-thumbnail.webp" alt="" width="768" height="405"></a>
 <figcaption>Beautiful backyards</figcaption>
 </figure>
@@ -177,9 +180,6 @@
 <figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-30.jpg" data-size="8192x4320"><img decoding="async" loading="lazy" src="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-30-thumbnail.webp" alt="" width="768" height="405"></a></figure>
 <figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-34.jpg" data-size="8192x4320"><img decoding="async" loading="lazy" src="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-34-thumbnail.webp" alt="" width="768" height="405"></a></figure>
 </div></div>
-<figure class="post__video"><video loading="lazy" height="auto" style="width: 100%;" autoplay="autoplay" data-mce-fragment="1">
-		<source src="https://video.wixstatic.com/video/08156e_42558b894a3e4b0dadc1315edc9f01b6/1080p/mp4/file.mp4" type="video/mp4" />
-	</video></figure>
             ]]>
         </content>
     </entry>
