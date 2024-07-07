@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Pleasants Demo",
+    "title": "Pleasants Development",
     "description": "",
     "home_page_url": "https://demo.stayflymedia.com",
     "feed_url": "https://demo.stayflymedia.com/feed.json",
@@ -63,7 +63,7 @@
             "title": "Spring View Estates",
             "summary": "Beautiful backyards Overhead shot Southeast Entrance Stunning views Immaculate streets Space to play",
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a>\n<figcaption>Beautiful backyards</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-05.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-05-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a>\n<figcaption>Overhead shot</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-02.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-02-thumbnail.webp\" alt=\"Stunning views\" width=\"768\" height=\"405\"></a>\n<figcaption>Southeast Entrance</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-22.jpg\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-22-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a>\n<figcaption>Stunning views</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-28.jpg\" data-size=\"4096x2160\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-28-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a>\n<figcaption>Immaculate streets</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-24.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-24-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a>\n<figcaption>Space to play</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-30.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-30-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-34.jpg\" data-size=\"8192x4320\"><img loading=\"lazy\" src=\"https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-34-thumbnail.webp\" alt=\"\" width=\"768\" height=\"405\"></a></figure>\n</div></div>\n<figure class=\"post__video\"><video loading=\"lazy\" height=\"auto\" style=\"width: 100%;\" autoplay=\"autoplay\" data-mce-fragment=\"1\">\n\t\t<source src=\"https://video.wixstatic.com/video/08156e_42558b894a3e4b0dadc1315edc9f01b6/1080p/mp4/file.mp4\" type=\"video/mp4\" />\n\t</video></figure>",
-            "image": "https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-17.jpg",
+            "image": "https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg",
             "author": {
                 "name": "Washington DC"
             },
@@ -71,7 +71,7 @@
                    "Residential"
             ],
             "date_published": "2024-07-04T20:44:48-04:00",
-            "date_modified": "2024-07-07T15:47:55-04:00"
+            "date_modified": "2024-07-05T16:30:17-04:00"
         }
     ]
 }
