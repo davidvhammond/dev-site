@@ -3,7 +3,7 @@
     <title>Pleasants Demo</title>
     <link href="https://demo.stayflymedia.com/feed.xml" rel="self" />
     <link href="https://demo.stayflymedia.com" />
-    <updated>2024-07-06T03:05:27-04:00</updated>
+    <updated>2024-07-07T15:47:55-04:00</updated>
     <author>
         <name>daveh</name>
     </author>
@@ -142,19 +142,19 @@
         </author>
         <link href="https://demo.stayflymedia.com/spring-hill-estates-2/"/>
         <id>https://demo.stayflymedia.com/spring-hill-estates-2/</id>
-        <media:content url="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg" medium="image" />
+        <media:content url="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-17.jpg" medium="image" />
             <category term="Residential"/>
 
         <updated>2024-07-04T20:44:48-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg" alt="" />
+                        <img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-17.jpg" alt="" />
                     Beautiful backyards Overhead shot Southeast Entrance Stunning views Immaculate streets Space to play
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-18.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://demo.stayflymedia.com/media/posts/2/gfx-spring-view-estates-17.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07.jpg" data-size="8192x4320"><img loading="lazy" src="https://demo.stayflymedia.com/media/posts/2/gallery/gfx-spring-hill-estates-07-thumbnail.webp" alt="" width="768" height="405"></a>
 <figcaption>Beautiful backyards</figcaption>
